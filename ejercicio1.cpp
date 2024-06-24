@@ -6,7 +6,7 @@ int main(){
     char op; 
 
     //op1 y op2 los dos numeros a ingresar
-
+    cout<<"Calculadora \n";
     cin >> op1 >> op >> op2;
     switch (op)
     {
